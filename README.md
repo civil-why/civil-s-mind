@@ -1,2 +1,2 @@
-# civil-s-mind
+# civil
 simple mind of nobody
